@@ -276,10 +276,25 @@ LABEL_55:
 
 o clmove bu işte speedhackin yani move modulationun ayrıca bfinaltick abuseunun aka eski rapidin ana fonksiyonu. 
 
+
+
+
+
+
+
 <img width="541" height="33" alt="image" src="https://github.com/user-attachments/assets/acaafce0-bea9-4a4b-98d5-eae1530b79c7" />
 
 a3 flAccumulatedExtraSamples oluyor
 a4 bFinalTick bu onemli cunku bu mevcut karenin son işlem adımı mı olduguna bakan flag paketin gönderilmesi için kritik bir onay flagidir
+
+
+
+
+
+
+
+
+
 
 
 <img width="479" height="55" alt="image" src="https://github.com/user-attachments/assets/fe79ec3b-226b-4528-8c70-ef8d0cdf4aa2" />
@@ -290,9 +305,26 @@ ayrıca attıgım ssteki sub_1018C4C0() denen func Loopback diye gecer bot macı
 
 
 
+
+
+
+
+
+
+
+
+
 <img width="798" height="178" alt="image" src="https://github.com/user-attachments/assets/c9548d9f-1561-4961-a346-e88014843c8a" />
 v55 flag bu oc zaten bir yerden tanıdık gelir bilenlere. Fakelag ana fonksiyonu bu flagdir canpacket denen sacmalıgın veya paketin gonderilip gonderilmeyecegini burası belirliyor 
 v55 = 0 oldugu zaman choke atıyor basitce buraya kadar klasikti ve bilinen seyler. asıl olaya şimdiki sste gelecegiz 
+
+
+
+
+
+
+
+
 
 
 
@@ -306,10 +338,34 @@ kısa formulu ve calısma mantıgı bu şekilde Son Komut + Biriken Komut + 1 = 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="543" height="50" alt="image" src="https://github.com/user-attachments/assets/01721471-b7f9-40b3-a292-ef6af26b5013" />
 bu da v54un işleyicisi. komutu alıyo ve o kadar usercmd uretiyor zaten olay burada choke exploitleri bu kısımda araya giriyor ve 
 choked commands degerine 80 90 gibi absurt değerler yazıyorlar sonrasında cl move loop ile servera gonderiyorlar kısaca tek yaptıkları
 sey bu.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -325,10 +381,33 @@ sayacı kendi kendine 1 artırılır. burayla alakalı bazı insanların dusunme
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <img width="827" height="213" alt="image" src="https://github.com/user-attachments/assets/2cc30f25-0433-4c09-bbf7-e7670c847df4" />
 sub_1007CEC0 burda da paketi gonderme olayı var şimdi olay şu burda bir clamp var 15 bu sınır burda duruyor istersen 10k yaz bu 15te duruyor
 min(19016+1, 15) diye bir formulden geciyor e bunu bypass edemez miyiz şu bu onu da anlatacagım net sekilde hayır ama bir yere kadar da evet.
 karmasık biraz 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
