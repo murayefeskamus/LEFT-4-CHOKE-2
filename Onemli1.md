@@ -278,7 +278,7 @@ o clmove bu işte speedhackin yani move modulationun ayrıca bfinaltick abuseunu
 
 
 
-
+​​⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀​
 
 
 
@@ -289,8 +289,8 @@ a4 bFinalTick bu onemli cunku bu mevcut karenin son işlem adımı mı olduguna 
 
 
 
-
-
+⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀
 
 
 
@@ -307,7 +307,7 @@ ayrıca attıgım ssteki sub_1018C4C0() denen func Loopback diye gecer bot macı
 
 
 
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
 
@@ -324,7 +324,7 @@ v55 = 0 oldugu zaman choke atıyor basitce buraya kadar klasikti ve bilinen seyl
 
 
 
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
 
@@ -340,7 +340,7 @@ kısa formulu ve calısma mantıgı bu şekilde Son Komut + Biriken Komut + 1 = 
 
 
 
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
 
@@ -359,7 +359,7 @@ sey bu.
 
 
 
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
 
@@ -382,7 +382,7 @@ sayacı kendi kendine 1 artırılır. burayla alakalı bazı insanların dusunme
 
 
 
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
 
@@ -405,7 +405,7 @@ karmasık biraz
 
 
 
-
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
 
 
